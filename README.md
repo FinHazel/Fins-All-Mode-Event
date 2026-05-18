@@ -1,6 +1,6 @@
-# Taiko Team Festival
+# Taiko Team Festival - Fin's All Mode Event
 
-Program used to balance teams in the Taiko Team Festival.
+Program used to balance teams in Taiko Team Festival, which has been repurposed for Fin's All Mode Event.
 
 The algorithm used here forms teams and tries to swap players around to minimize a metric which represents how unbalanced a team is.
 The metric we have chosen has two parts :
@@ -19,3 +19,4 @@ For TTF2, the following changes have been implemented :
 * Players are no longer divided into A/B/C/D seeds.
 * Timezones are no longer taken into consideration.
 
+FAME uses the exact same version as TTF2.
