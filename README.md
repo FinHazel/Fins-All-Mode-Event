@@ -19,4 +19,4 @@ For TTF2, the following changes have been implemented :
 * Players are no longer divided into A/B/C/D seeds.
 * Timezones are no longer taken into consideration.
 
-FAME uses the exact same version as TTF2.
+FAME uses the exact same version as TTF2. Thanks to Chupalika for letting me use this for FAME.
